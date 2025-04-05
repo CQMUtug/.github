@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
+> Every time I read a LaTeX document, I think, wow, this must be correct!
 
 - 🙋‍♀️ A short introduction - CQMU tex user group for latex template masterpieces
 - 🌈 Contribution guidelines - email [PGuide Studio](mailto:pguide-studio@outlook.com) to join us for LaTeX template crafting, we pay for your outstanding work.
