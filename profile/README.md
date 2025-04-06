@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Every+time+I+read+a+LaTeX+document%2C+I+think%2C+wow%2C+this+must+be+correct!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&multiline=true&width=550&lines=Every+time+I+read+a+LaTeX+document%2C+I+think%2C;wow%2C+this+must+be+correct!)](https://git.io/typing-svg)
 
 - 🙋‍♀️ A short introduction - CQMU tex user group for latex template masterpieces
 - 🌈 Contribution guidelines - email [PGuide Studio](mailto:pguide-studio@outlook.com) to join us for LaTeX template crafting, we pay for your outstanding work.
