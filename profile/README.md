@@ -10,9 +10,12 @@
 - 👩‍💻 Useful resources - Refer to [PGuide Docs](https://docs.pguide.studio/) to learn what LaTeX or Overleaf is, concepts over CTAN globally.
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-> 🙋‍♀️ 简短介绍 - CQMU Tex 用户组，专注创作 LaTeX 模板的杰作。
+> 🙋‍♀️ 简短介绍 - CQMU Tex 用户组，专注创作 LaTeX 模板创作。
+> 
 > 🌈 贡献指南 - 邮件联系 [PGuide Studio](mailto:pguide-studio@outlook.com) 加入我们，共同打造 LaTeX 模板，并且我们为您的杰出贡献提供一定的报酬。
+> 
 > 👩‍💻 实用资源 - 参考 [PGuide 文档](https://docs.pguide.studio/) 了解 LaTeX 或 Overleaf 是什么，以及全球 CTAN 的相关概念。
+> 
 > 🧙 请记住，借助 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 的力量，您可以实现强大的功能。
 
 ## Temlpates
