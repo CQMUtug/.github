@@ -17,12 +17,10 @@
 - 👩‍💻 Useful resources - Refer to [PGuide Docs](https://docs.pguide.studio/) to learn what LaTeX or Overleaf is, concepts over CTAN globally.
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-| 模板名                                         | 可用于                                                 | 仓库地址                                              | Overleaf官方地址                                             | 国科大备份                                                   | 备注                       |
-| ---------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
-| 重庆医科大学平时作业和小论文模板               | 重庆医科大学（CQMU）课程大作业/非定性实验报告/结课汇报 | https://github.com/CQMUtug/CQMU_Exp-Homework_template | https://cn.overleaf.com/latex/templates/cqmu-researchreport/qghkqhhtzfkp | https://template-sharelatex.cstcloud.cn/templateDesc/67f2222c8934e1518a650c5d | 部分课程可用               |
-| 重庆医科大学本科生毕业论文所有相关文件模板集合 | 重庆医科大学毕业论文相关文件LaTeX写作                  | https://github.com/CQMUtug/CQMUThesis                 |                                                              |                                                              | 切换分支即可查看不同的文件 |
-|                                                |                                                        |                                                       |                                                              |                                                              |                            |
-
+| 模板名                                         | 可用于                                                 | 资源链接                                                                                         | 备注                       |
+| ---------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------- |
+| 重庆医科大学平时作业和小论文模板               | 重庆医科大学（CQMU）课程大作业/非定性实验报告/结课汇报 | - 仓库地址: [https://github.com/CQMUtug/CQMU_Exp-Homework_template](https://github.com/CQMUtug/CQMU_Exp-Homework_template) <br> - Overleaf官方地址: [https://cn.overleaf.com/latex/templates/cqmu-researchreport/qghkqhhtzfkp](https://cn.overleaf.com/latex/templates/cqmu-researchreport/qghkqhhtzfkp) <br> - 国科大备份: [https://template-sharelatex.cstcloud.cn/templateDesc/67f2222c8934e1518a650c5d](https://template-sharelatex.cstcloud.cn/templateDesc/67f2222c8934e1518a650c5d) | 部分课程可用               |
+| 重庆医科大学本科生毕业论文所有相关文件模板集合 | 重庆医科大学毕业论文相关文件LaTeX写作                  | - 仓库地址: [https://github.com/CQMUtug/CQMUThesis](https://github.com/CQMUtug/CQMUThesis)                                      | 切换分支即可查看不同的文件 |
 
 
 ---
