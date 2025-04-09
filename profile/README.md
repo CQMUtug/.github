@@ -4,18 +4,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Every+time+I+read+a+LaTeX+document%2C+I+think%2C+wow.+this+must+be+correct!)](https://git.io/typing-svg)
 
-> 🙋‍♀️ 简短介绍 - CQMU Tex 用户组，专注创作 LaTeX 模板创作。
-> 
-> 🌈 贡献指南 - 邮件联系 [PGuide Studio](mailto:pguide-studio@outlook.com) 加入我们，共同打造 LaTeX 模板，并且我们为您的杰出贡献提供一定的报酬。
-> 
-> 👩‍💻 实用资源 - 参考 [PGuide 文档](https://docs.pguide.studio/) 了解 LaTeX 或 Overleaf 是什么，以及全球 CTAN 的相关概念。
-> 
-> 🧙 请记住，借助 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 的力量，您可以实现强大的功能。
+- 🙋‍♀️ 简短介绍 - CQMU Tex 用户组，专注创作 LaTeX 模板创作。
+- 🌈 贡献指南 - 邮件联系 [PGuide Studio](mailto:pguide-studio@outlook.com) 加入我们，共同打造 LaTeX 模板，并且我们为您的杰出贡献提供一定的报酬。
+- 👩‍💻 实用资源 - 参考 [PGuide 文档](https://docs.pguide.studio/) 了解 LaTeX 或 Overleaf 是什么，以及全球 CTAN 的相关概念。
+- 🧙 请记住，借助 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 的力量，您可以实现强大的功能。
 
-- 🙋‍♀️ A short introduction - CQMU tex user group for latex template masterpieces
-- 🌈 Contribution guidelines - email [PGuide Studio](mailto:pguide-studio@outlook.com) to join us for LaTeX template crafting, and we pay for your outstanding work.
-- 👩‍💻 Useful resources - Refer to [PGuide Docs](https://docs.pguide.studio/) to learn what LaTeX or Overleaf is, concepts over CTAN globally.
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+> 🙋‍♀️ A short introduction - CQMU tex user group for latex template masterpieces
+> 
+> 🌈 Contribution guidelines - email [PGuide Studio](mailto:pguide-studio@outlook.com) to join us for LaTeX template crafting, and we pay for your outstanding work.
+> 
+> 👩‍💻 Useful resources - Refer to [PGuide Docs](https://docs.pguide.studio/) to learn what LaTeX or Overleaf is, concepts over CTAN globally.
+> 
+> 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 | 模板名                                         | 可用于                                                 | 资源链接                                                                                         | 备注                       |
 | ---------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------- |
