@@ -17,68 +17,15 @@
 - 👩‍💻 Useful resources - Refer to [PGuide Docs](https://docs.pguide.studio/) to learn what LaTeX or Overleaf is, concepts over CTAN globally.
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+| 模板名                                         | 可用于                                                 | 仓库地址                                              | Overleaf官方地址                                             | 国科大备份                                                   | 备注                       |
+| ---------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------- |
+| 重庆医科大学平时作业和小论文模板               | 重庆医科大学（CQMU）课程大作业/非定性实验报告/结课汇报 | https://github.com/CQMUtug/CQMU_Exp-Homework_template | https://cn.overleaf.com/latex/templates/cqmu-researchreport/qghkqhhtzfkp | https://template-sharelatex.cstcloud.cn/templateDesc/67f2222c8934e1518a650c5d | 部分课程可用               |
+| 重庆医科大学本科生毕业论文所有相关文件模板集合 | 重庆医科大学毕业论文相关文件LaTeX写作                  | https://github.com/CQMUtug/CQMUThesis                 |                                                              |                                                              | 切换分支即可查看不同的文件 |
+|                                                |                                                        |                                                       |                                                              |                                                              |                            |
 
 
-## Temlpates
 
-> 模板
-
-### CQMU_Exp-Homework_template
-|  封面效果 |  目录效果图| 
-|:---:|:---:|
-| ![](https://github.com/CQMUtug/CQMU_Exp-Homework_template/blob/main/figures/cover.png?raw=true) | ![](https://github.com/CQMUtug/CQMU_Exp-Homework_template/blob/main/figures/catalog.png?raw=true)| 
-
-See it on github repo!
-
-> 重庆医科大学平时小作业和实验报告模板，参考[github仓库](https://github.com/CQMUtug/CQMU_Exp-Homework_template)。
-
-Supported classes: 
-
-These classes allow you to use `CQMU_Exp-Homework_template` to submit, feel free to use.
-
-> 这些课程已被老师们允许使用，放心用。
-
-| 课程名称                     | 授课老师   | 对接状态 |
-|------------------------------|------------|----------|
-| 自然语言处理与电子病历挖掘课程设计 | 王浩林老师 | ✅       |
-| 信息服务与用户研究、信息检索      | 侯筱蓉老师 | ✅       |
-| 医院信息系统开发                | 熊欣老师   | ❌       |
-| 信息安全管理、网络技术、Linux     | 赖清老师   | ❌       |
-| 数据库原理与技术 | 杨美洁老师 | ❌       |
-| 临床药学讲座|浦科学/余娴/贾运涛/唐亚岚老师|❌|
-|医学信息分析|吕亚兰/浦科学/赵文龙/侯筱蓉/刘家秀/王浩林老师|❌|
-|移动医疗开发|曾红武老师|❌|
-
-| Course Name                                      | Instructor       | Status   |
-|--------------------------------------------------|------------------|----------|
-| Natural Language Processing and EHR Mining Course Design | Mr. Wang Haolin     | ✅       |
-| Information Services and User Research, Information Retrieval | Ms. Hou Xiaorong    | ✅       |
-| Hospital Information System Development          | Ms. Xiong Xin       | ❌       |
-| Information Security Management, Network Technology, Linux | Mr. Lai Qing        | ❌       |
-| Principles and Technology of Databases           | Ms. Yang Meijie     | ❌       |
-| Clinical Pharmacy Lecture                         | Mr. Pu Kexue / Ms. Yu Xian / Mr. Jia Yuntao / Ms. Tang Yalan | ❌       |
-| Medical Information Analysis                     | Ms. Lü Yalan / Mr. Pu Kexue / Mr. Zhao Wenlong / Ms. Hou Xiaorong / Ms. Liu Jiaxiu / Mr. Wang Haolin | ❌       |
-| Mobile Healthcare Development                    | Mr. Zeng Hongwu     | ❌       |
-
-## CQMU Recommendation Letter
-
-uploading...
-
-## CQMU theis
-
-All Relevant Document Templates for Undergraduate Thesis at Chongqing Medical University, Switchable by Branch.
-
-> 重庆医科大学本科生毕业论文所有相关文件模板集合，按照分支进行切换即可。
-
-### assignment
-
-Assignment template, progressing in beta test.[Github Repo](https://github.com/CQMUtug/CQMUThesis)，switch to `assignment` branch
-
-> 任务书模板，beta测试中。[Github 仓库](https://github.com/CQMUtug/CQMUThesis)，切换至 `assignment` 分支
-
-|  封面效果 |
-|:---:|
-| ![](https://github.com/CQMUtug/CQMUThesis/blob/assignment/front.png?raw=true) |
+---
 
 
 # Friend Links
