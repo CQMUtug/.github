@@ -36,7 +36,7 @@ uploading...
 
 Overleaf url: 
 
-|  [封面效果图](https://github.com/NorthSecond/SYSU_Latex_Template/blob/main/figures/sysu_report.png) |  [目录效果图](https://github.com/NorthSecond/Latex_Template/blob/main/figures/index.png)| 
+|  封面效果 |  目录效果图| 
 |:---:|:---:|
 | ![](https://github.com/CQMUtug/CQMU_Exp-Homework_template/blob/main/figures/cover.png?raw=true) | ![](https://github.com/CQMUtug/CQMU_Exp-Homework_template/blob/main/figures/catalog.png?raw=true)| 
 
