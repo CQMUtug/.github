@@ -1,14 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 你好！这里是重庆医科大学TeX用户组。
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Every+time+I+read+a+LaTeX+document%2C+I+think%2C+wow.+this+must+be+correct!)](https://git.io/typing-svg)
-
-
-- 🙋‍♀️ A short introduction - CQMU tex user group for latex template masterpieces
-- 🌈 Contribution guidelines - email [PGuide Studio](mailto:pguide-studio@outlook.com) to join us for LaTeX template crafting, and we pay for your outstanding work.
-- 👩‍💻 Useful resources - Refer to [PGuide Docs](https://docs.pguide.studio/) to learn what LaTeX or Overleaf is, concepts over CTAN globally.
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > 🙋‍♀️ 简短介绍 - CQMU Tex 用户组，专注创作 LaTeX 模板创作。
 > 
@@ -17,6 +11,13 @@
 > 👩‍💻 实用资源 - 参考 [PGuide 文档](https://docs.pguide.studio/) 了解 LaTeX 或 Overleaf 是什么，以及全球 CTAN 的相关概念。
 > 
 > 🧙 请记住，借助 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 的力量，您可以实现强大的功能。
+
+- 🙋‍♀️ A short introduction - CQMU tex user group for latex template masterpieces
+- 🌈 Contribution guidelines - email [PGuide Studio](mailto:pguide-studio@outlook.com) to join us for LaTeX template crafting, and we pay for your outstanding work.
+- 👩‍💻 Useful resources - Refer to [PGuide Docs](https://docs.pguide.studio/) to learn what LaTeX or Overleaf is, concepts over CTAN globally.
+- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
 
 ## Temlpates
 
@@ -37,17 +38,6 @@ These classes allow you to use `CQMU_Exp-Homework_template` to submit, feel free
 
 > 这些课程已被老师们允许使用，放心用。
 
-| Course Name                                      | Instructor       | Status   |
-|--------------------------------------------------|------------------|----------|
-| Natural Language Processing and EHR Mining Course Design | Mr. Wang Haolin     | ✅       |
-| Information Services and User Research, Information Retrieval | Ms. Hou Xiaorong    | ✅       |
-| Hospital Information System Development          | Ms. Xiong Xin       | ❌       |
-| Information Security Management, Network Technology, Linux | Mr. Lai Qing        | ❌       |
-| Principles and Technology of Databases           | Ms. Yang Meijie     | ❌       |
-| Clinical Pharmacy Lecture                         | Mr. Pu Kexue / Ms. Yu Xian / Mr. Jia Yuntao / Ms. Tang Yalan | ❌       |
-| Medical Information Analysis                     | Ms. Lü Yalan / Mr. Pu Kexue / Mr. Zhao Wenlong / Ms. Hou Xiaorong / Ms. Liu Jiaxiu / Mr. Wang Haolin | ❌       |
-| Mobile Healthcare Development                    | Mr. Zeng Hongwu     | ❌       |
-
 | 课程名称                     | 授课老师   | 对接状态 |
 |------------------------------|------------|----------|
 | 自然语言处理与电子病历挖掘课程设计 | 王浩林老师 | ✅       |
@@ -59,23 +49,39 @@ These classes allow you to use `CQMU_Exp-Homework_template` to submit, feel free
 |医学信息分析|吕亚兰/浦科学/赵文龙/侯筱蓉/刘家秀/王浩林老师|❌|
 |移动医疗开发|曾红武老师|❌|
 
+| Course Name                                      | Instructor       | Status   |
+|--------------------------------------------------|------------------|----------|
+| Natural Language Processing and EHR Mining Course Design | Mr. Wang Haolin     | ✅       |
+| Information Services and User Research, Information Retrieval | Ms. Hou Xiaorong    | ✅       |
+| Hospital Information System Development          | Ms. Xiong Xin       | ❌       |
+| Information Security Management, Network Technology, Linux | Mr. Lai Qing        | ❌       |
+| Principles and Technology of Databases           | Ms. Yang Meijie     | ❌       |
+| Clinical Pharmacy Lecture                         | Mr. Pu Kexue / Ms. Yu Xian / Mr. Jia Yuntao / Ms. Tang Yalan | ❌       |
+| Medical Information Analysis                     | Ms. Lü Yalan / Mr. Pu Kexue / Mr. Zhao Wenlong / Ms. Hou Xiaorong / Ms. Liu Jiaxiu / Mr. Wang Haolin | ❌       |
+| Mobile Healthcare Development                    | Mr. Zeng Hongwu     | ❌       |
 
-
-### CQMU Recommendation Letter
+## CQMU Recommendation Letter
 
 uploading...
 
-### CQMU theis
+## CQMU theis
 
-uploading...
+All Relevant Document Templates for Undergraduate Thesis at Chongqing Medical University, Switchable by Branch.
 
-### CQMU Java Exps
-uploading...
+> 重庆医科大学本科生毕业论文所有相关文件模板集合，按照分支进行切换即可。
 
-### CQMU theis report as begins
-- assignment branch see here
+### assignment
 
-## Friend Links
+Assignment template, progressing in beta test.[Github Repo](https://github.com/CQMUtug/CQMUThesis)，switch to `assignment` branch
+
+> 任务书模板，beta测试中。[Github 仓库](https://github.com/CQMUtug/CQMUThesis)，切换至 `assignment` 分支
+
+|  封面效果 |
+|:---:|
+| ![](https://github.com/CQMUtug/CQMUThesis/blob/assignment/front.png?raw=true) |
+
+
+# Friend Links
 
 - PGuide Studio
   - [PGuide Docs](https://docs.pguide.studio/public-service/overleaf/)
