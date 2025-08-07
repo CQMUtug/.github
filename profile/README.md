@@ -1,6 +1,6 @@
 # Hi there 👋
 
-你好！这里是重庆医科大学TeX用户组。
+你好！这里是重庆医科大学TeX用户组，我们的官网是：https://www.latex.press
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Every+time+I+read+a+LaTeX+document%2C+I+think%2C+wow.+this+must+be+correct!)](https://git.io/typing-svg)
 
