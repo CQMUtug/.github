@@ -1,10 +1,8 @@
-# Hi there 👋
-
-你好！这里是重庆医科大学TeX用户组，我们的官网是：https://www.latex.press
+你好！这里是重庆医科大学 TeX 用户组，我们的官网是：https://cqmutug.github.io/site/
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Every+time+I+read+a+LaTeX+document%2C+I+think%2C+wow.+this+must+be+correct!)](https://git.io/typing-svg)
 
-- 🙋‍♀️ 简短介绍 - CQMU Tex 用户组，专注创作 LaTeX 模板创作。
+- 🙋‍♀️ 简短介绍 - CQMU TeX 用户组，专注创作 LaTeX 模板创作。
 - 🌈 贡献指南 - 邮件联系 [PGuide Studio](mailto:pguide-studio@outlook.com) 加入我们，共同打造 LaTeX 模板，并且我们为您的杰出贡献提供一定的报酬。
 - 👩‍💻 实用资源 - 参考 [PGuide 文档](https://docs.pguide.studio/) 了解 LaTeX 或 Overleaf 是什么，以及全球 CTAN 的相关概念。
 - 🧙 请记住，借助 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 的力量，您可以实现强大的功能。
@@ -16,7 +14,7 @@
 | 重庆医科大学开题报告模板         | 重庆医科大学本科生毕业论文、设计开通报告LaTeX写作      |                                                              |              |
 | 重庆医科大学本科毕业论文模板（完善中）     | 重庆医科大学本科生毕业论文/设计模板                                                       | - 仓库地址：https://github.com/CQMUtug/CQMUthesis                                                             |              |
 | 重庆医科大学简历模板             | 实习、求职、科研助理与研究生相关申请等                 | -仓库地址：https://github.com/CQMUtug/cqmu-resume                                                             |              |
-| 重庆医科大学推荐信模板           | 重庆医科大学推荐信模板，专业深究/博生生申请可用。                                                       | 仓库地址：https://github.com/CQMUtug/recommendation-letter                                                             |              |
+| 重庆医科大学推荐信模板           | 重庆医科大学推荐信模板，专业深究/博生生申请可用。                                                       | - 仓库地址：https://github.com/CQMUtug/recommendation-letter                                                             |              |
 | 重庆医科大学代码提交模板（开发中）         |                                                        |                                                              |              |
 | 重庆医科大学归档教职工用模板（开发中）     |                                                        |                                                              |              |
 ---
