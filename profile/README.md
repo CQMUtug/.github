@@ -10,7 +10,7 @@
 | 模板名                           | 可用于                                                 | 资源链接                                                     | 备注         |
 | -------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
 | 重庆医科大学平时作业和小论文模板 | 重庆医科大学（CQMU）课程大作业/非定性实验报告/结课汇报 | - 仓库地址: https://github.com/CQMUtug/CQMU-experiments-homework-template <br>- Overleaf官方地址: [https://cn.overleaf.com/latex/templates/cqmu-researchreport/qghkqhhtzfkp](https://cn.overleaf.com/latex/templates/cqmu-researchreport/qghkqhhtzfkp) <br>- 国科大备份: [https://template-sharelatex.cstcloud.cn/templateDesc/67f2222c8934e1518a650c5d](https://template-sharelatex.cstcloud.cn/templateDesc/67f2222c8934e1518a650c5d) | 部分课程可用 |
-| 重庆医科大学任务书模板           | 重庆医科大学毕业论文相关文件LaTeX写作                  | - 仓库地址: [https://github.com/CQMUtug/CQMUThesis-assignment](https://github.com/CQMUtug/CQMUThesis-assignment) | 任务书模板   |
+| 重庆医科大学任务书模板           | 重庆医科大学毕业论文相关文件LaTeX写作                  | - 仓库地址: https://github.com/CQMUtug/CQMU-experiments-homework-template | 任务书模板   |
 | 重庆医科大学开题报告模板         | 重庆医科大学本科生毕业论文、设计开通报告LaTeX写作      |                                                              |              |
 | 重庆医科大学本科毕业论文模板（完善中）     | 重庆医科大学本科生毕业论文/设计模板                                                       | - 仓库地址：https://github.com/CQMUtug/CQMUthesis                                                             |              |
 | 重庆医科大学简历模板             | 实习、求职、科研助理与研究生相关申请等                 | -仓库地址：https://github.com/CQMUtug/cqmu-resume                                                             |              |
